@@ -1,7 +1,7 @@
 {
     "recipes": {
         "michael-roth/admin-bundle": [
-            "dev-main"
+            "0.1"
         ]
     },
     "branch": "master",
