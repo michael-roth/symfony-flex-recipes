@@ -1,0 +1,3 @@
+michael_roth_admin:
+    resource: "@MichaelRothAdminBundle/config/routes.yaml"
+    type: yaml
