@@ -8,7 +8,7 @@
     "is_contrib": true,
     "_links": {
         "repository": "github.com/michael-roth/symfony-flex-recipes",
-        "origin_template": "{package}:{version}@github.com/michael-roth/symfony-flex-recipes:main",
+        "origin_template": "{package}:{version}@github.com/michael-roth/symfony-flex-recipes:master",
         "recipe_template": "https://api.github.com/repos/michael-roth/symfony-flex-recipes/contents/{package_dotted}.{version}.json"
     }
 }
