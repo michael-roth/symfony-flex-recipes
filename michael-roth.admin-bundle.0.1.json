@@ -8,20 +8,21 @@
                     ]
                 },
                 "copy-from-recipe": {
-                    "config/": "%CONFIG_DIR%"
+                    "config/": "%CONFIG_DIR%/"
                 }
             },
             "files": {
                 "config/routes/michaelroth_admin.yaml": {
                     "contents": [
                         "michael_roth_admin:",
-                        "    resource: '@MichaelRothAdminBundle/config/routes.yaml'",
-                        "    type: yaml"
+                        "    resource: \"@MichaelRothAdminBundle/config/routes.yaml\"",
+                        "    type: yaml",
+                        ""
                     ],
                     "executable": false
                 }
             },
-            "ref": "0f4ee00429e946b79a5e53320a67d17996abd413"
+            "ref": "ef1119971dc462baa2037943624c0d04385940f6"
         }
     }
 }
